@@ -1,0 +1,9 @@
+# Requirements (version unsure)
+librosa
+matplotlib
+numpy
+PyWavelets
+sounddevice
+scipy
+seaborn
+tensorflow
