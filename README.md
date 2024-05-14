@@ -1,3 +1,4 @@
+![image1](https://raw.githubusercontent.com/coolperson111/hearbeatsound-anomaly-detection/main/imgs/Heart%20sound%20detection%20MLPR%20Image.png)
 # HeartBeat Sound Classifier
 
 Semester 4 MLPR (Machine Learning and Pattern Recognition) Project to classify Heartbeat sounds intonormal/abnormal and detect murmurs in the sounds. We plan to use the [PhysioNet](https://physionet.org/content/circor-heart-sound/1.0.3/) dataset for this project. Course Details and more information on the project can be found on the [course website](https://ai3011.plaksha.edu.in/).
